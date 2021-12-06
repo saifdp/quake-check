@@ -1,10 +1,10 @@
-Quake Report App
+Quake Check - Earthquake Alert
 ===================================
 
 This app displays a list of recent earthquakes in the world
 from the U.S. Geological Survey (USGS) organization.
 
-Developed by Mohammed Saifuddin
+Developed by Mohammed Saifuddin. 
 website : www.heysaif.com
 
 More info on the USGS Earthquake API available at:
